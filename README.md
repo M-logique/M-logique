@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm M. logique</h1>
 <h3 align="center">A passionate frontend developer from Iran!</h3>
 
+- 🥂 My Real Name is **Ermia** But My friends calling me **M. Logique**
+
 - 🌱 I’m currently learning **python, JavaScript Html and Css!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-logique?tab=repositories](https://github.com/M-logique?tab=repositories)
