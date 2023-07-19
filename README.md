@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mlogique.bruh@gmail.com**
 
-- ⚡ Fun fact **I hate sanandah**
+- ⚡ Fun fact **I hate sanandaj**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
