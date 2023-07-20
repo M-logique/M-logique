@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. logique</h1>
-<h3 align="center">A passionate frontend developer from Iran!</h3>
+<h3 align="center">A developer from Iran!</h3>
 
 - 🥂 My Real Name is **Ermia** But My friends calling me **M. Logique**
 
