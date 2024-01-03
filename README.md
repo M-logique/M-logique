@@ -3,7 +3,7 @@
 
 - 🥂 My Real Name is **Ermia** But My friends calling me **M. Logique**
 
-- 🌱 I’m currently learning **python, JavaScript Html and Css!**
+- 🌱 I’m good with **Python and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-logique?tab=repositories](https://github.com/M-logique?tab=repositories)
 
