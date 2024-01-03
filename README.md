@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-logique?tab=repositories](https://github.com/M-logique?tab=repositories)
 
-- 📫 How to reach me **mlogique.bruh@gmail.com**
+- 📫 How to reach me **logique@duck.com**
 
 - ⚡ Fun fact **I hate sanandaj**
 
