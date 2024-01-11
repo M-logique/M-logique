@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="images/emojis/disappointed.png"  alt="." width="16" height="16">, I'm M. logique</h1>
 <div>
-<img src="images/photos/Banner.png" border="0" />
+<img src="https://cdn.discordapp.com/attachments/1054647745887096842/1194935228108640348/The_Crow_A_painted_black_and_white_city_with_faceless_citizens__eb40610c-4469-4045-b903-92ee892040ab.png" width="500" align="center" />
 <br/>
 <br/>
 
