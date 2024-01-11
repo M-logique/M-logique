@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm M. logique</h1>
-<h3 align="center">A developer from Iran!</h3>
+
 <div>
 <img src="https://cdn.discordapp.com/attachments/1054647745887096842/1194933147373150270/The_Crow_A_painted_black_and_white_city_with_faceless_citizens__fdfa295e-e258-4755-8771-933d8a341b0e.png" width="300" align="right" />
 <br/>
