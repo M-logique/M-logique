@@ -8,7 +8,7 @@
 
 - <img src="images/emojis/bread.png" width="16" height="16" alt="." /> I’m good with **Python and Node.js**
 
-- <img src="images/emojis/bread.png" width="16" height="16" alt="." /> All of my projects are available at [This Page](https://github.com/M-logique?tab=repositories)
+- <img src="images/emojis/github.png" width="16" height="16" alt="." /> All of my projects are available at [This Page](https://github.com/M-logique?tab=repositories)
 
 - <img src="images/emojis/think.png"  alt="." width="16" height="16" /> How to reach me?
     - <img src="images/emojis/mail.png"  alt="." width="16" height="16" /> **logique@duck.com**
@@ -21,5 +21,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<a href="https://www.coffeebede.com/m.logique"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
