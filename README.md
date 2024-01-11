@@ -1,6 +1,6 @@
 #
 <div>
-<img src="https://cdn.discordapp.com/attachments/1054647745887096842/1194935228108640348/The_Crow_A_painted_black_and_white_city_with_faceless_citizens__eb40610c-4469-4045-b903-92ee892040ab.png" width="400" align="center" />
+<img src="https://cdn.discordapp.com/attachments/1054647745887096842/1194935228108640348/The_Crow_A_painted_black_and_white_city_with_faceless_citizens__eb40610c-4469-4045-b903-92ee892040ab.png" width="500" align="center" />
 <br/>
 <br/>
 
