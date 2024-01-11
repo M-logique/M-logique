@@ -6,7 +6,7 @@
 
 - <img src="images/emojis/disappointed.png"  alt="." width="16" height="16" /> My Real Name is **Ermia** But My friends calling me **M. Logique**
 
-- 🌱 I’m good with **Python and Node.js**
+- <img src="images/emojis/code.png" width="16" height="16" alt="." /> I’m good with **Python and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-logique?tab=repositories](https://github.com/M-logique?tab=repositories)
 
