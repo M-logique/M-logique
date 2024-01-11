@@ -8,7 +8,7 @@
 
 - <img src="images/emojis/bread.png" width="16" height="16" alt="." /> I’m good with **Python and Node.js**
 
-- <img src="images/emojis/github.png" width="16" height="16" alt="." /> All of my projects are available at [This Page](https://github.com/M-logique?tab=repositories)
+- <img src="images/emojis/github_white.png" width="16" height="16" alt="." /> All of my projects are available at [This Page](https://github.com/M-logique?tab=repositories)
 
 - <img src="images/emojis/think.png"  alt="." width="16" height="16" /> How to reach me?
     - <img src="images/emojis/mail.png"  alt="." width="16" height="16" /> **logique@duck.com**
