@@ -15,7 +15,7 @@
     - <img src="images/emojis/telegram.png"  alt="." width="16" height="16" /> [@M. logique](https://t.me/logique_dev)
     - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="." width="16" height="16" /> [@m.logique_](https://instagram.com/m.logique_)
 
-- ⚡ Fun fact **I hate sanandaj**
+- <img src="images/emojis/frog.png"  alt="." width="16" height="16" /> Fun fact **I hate sanandaj**
 <div/>
 
 
