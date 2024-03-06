@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-- <img src="images/emojis/disappointed.png"  alt="." width="16" height="16" /> My Real Name is **Ermia** But My friends calling me **M. Logique**
+- <img src="images/emojis/disappointed.png"  alt="." width="16" height="16" /> My friends calling me **M. Logique**
 
 - <img src="images/emojis/bread.png" width="16" height="16" alt="." /> I’m good with **Python and Node.js**
 
