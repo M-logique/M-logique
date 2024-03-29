@@ -13,7 +13,6 @@
 - <img src="images/emojis/think.png"  alt="." width="16" height="16" /> How to reach me?
     - <img src="images/emojis/mail.png"  alt="." width="16" height="16" /> **logique@duck.com**
     - <img src="images/emojis/telegram.png"  alt="." width="16" height="16" /> [@M. logique](https://t.me/logique_dev)
-    - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="." width="16" height="16" /> [@m.logique_](https://instagram.com/m.logique_)
 
 - <img src="images/emojis/frog.png"  alt="." width="16" height="16" /> Fun fact **I hate sanandaj**
 <div/>
