@@ -4,16 +4,16 @@
 <br/>
 <br/>
 
-- <img src="images/emojis/disappointed.png"  alt="." width="16" height="16" /> My friends calling me **M. Logique**
 
-- <img src="images/emojis/bread.png" width="16" height="16" alt="." /> I’m good with **Python and Node.js**
-
-- <img src="images/emojis/github_white.png" width="16" height="16" alt="." /> All of my projects are available at [This Page](https://github.com/M-logique?tab=repositories)
+- A guy who interested in coding
+  
+- <img src="images/emojis/github_white.png" width="16" height="16" alt="." /> All of my prokects are available at [This Page](https://github.com/M-logique?tab=repositories)
 
 - <img src="images/emojis/think.png"  alt="." width="16" height="16" /> How to reach me?
     - <img src="images/emojis/mail.png"  alt="." width="16" height="16" /> **logique@duck.com**
     - <img src="images/emojis/telegram.png"  alt="." width="16" height="16" /> [@logiquebruh](https://t.me/logiquebruh)
 <div/>
+    
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
