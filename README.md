@@ -14,7 +14,7 @@
     - <img src="images/emojis/telegram.png"  alt="." width="16" height="16" /> [@logiquebruh](https://t.me/logiquebruh)
 <div/>
     
-### :hammer_and_wrench: Languages and Tools :
+### 🤔 I use these tools and languages to make cool stuff:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
