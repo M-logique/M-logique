@@ -5,9 +5,9 @@
 <br/>
 
 
-- A guy who interested in coding
+- A guy who interested in coding.
   
-- <img src="images/emojis/github_white.png" width="16" height="16" alt="." /> All of my prokects are available at [This Page](https://github.com/M-logique?tab=repositories)
+- <img src="images/emojis/github_white.png" width="16" height="16" alt="." /> All of my projects are available at [This Page](https://github.com/M-logique?tab=repositories)
 
 - <img src="images/emojis/think.png"  alt="." width="16" height="16" /> How to reach me?
     - <img src="images/emojis/mail.png"  alt="." width="16" height="16" /> **logique@duck.com**
