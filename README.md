@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src="images/emojis/disappointed.png" alt="disappointed emoji" width="27" height="27" />, This is M. logique</h1>
-<h2 align="center">Python enthuanist, and a no-skill dev from nowhere </h2>
+<h2 align="center">Python enthusiast, and a lazy dev from nowhere </h2>
 <div>
 <img src="./images/photos/Banner.png" alt="Banner" />
 
