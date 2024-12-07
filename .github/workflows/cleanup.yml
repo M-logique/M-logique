@@ -1,0 +1,39 @@
+name: Clean History
+
+permissions:
+  contents: write
+
+
+
+on:
+  push:
+    branches:
+      - main
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout Repository Contents
+        uses: actions/checkout@v4
+       
+      - name: Clean Up Files
+        run: |
+          git checkout --orphan latest_branch
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+          git add -A
+          git commit -am "."
+          git branch -D main
+          git branch -m main
+          git push -f origin main
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
